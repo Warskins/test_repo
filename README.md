@@ -1,4 +1,3 @@
-[![Coverage Status](https://coveralls.io/repos/gitlab/Warskins/flask_project/badge.svg?branch=master)](https://coveralls.io/gitlab/Warskins/flask_project?branch=master)  
 Productly is  a simple web application for managing departments and employees.
 
 The web application  allow:

@@ -30,7 +30,7 @@ The web application  allow:
 
 
 
-<h3>Tests</h3>
+<h3>Gests</h3>
 
 1. Open bash in app directory
 
